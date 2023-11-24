@@ -7,7 +7,6 @@ import Home from './components/Home';
 function App() {
   return (
     <div className='bg-cyan-900 h-[calc(100vh)]'>
-          <Navbar/>
       <main>
         <div>
           <Home/>
